@@ -1,5 +1,5 @@
 var updates = [
-    {message: "Welcome to the 3rd official release of Andyum!"}
+    {message: "Welcome to the 5th official release of AidanUnblocker!"}
 ];
 var updatespage = document.getElementById("updatespage");
 for(let item of updates) {
